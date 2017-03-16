@@ -1,6 +1,5 @@
 # EduCamps
 
-Web Programming Final Project
 Website: http://educamps.us 
 (Hosted on AWS version using MySQL server on and EC2 instance)
 
