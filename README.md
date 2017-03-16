@@ -10,7 +10,7 @@ EduCamps is a website for users to sign up their children for different camps na
 
 
 Contributors:
-Neil Prabhu (Me)
-Sanjay Kaliyur
-Warren Tseng
+Neil Prabhu (Me),
+Sanjay Kaliyur,
+Warren Tseng,
 Alex Ripley
